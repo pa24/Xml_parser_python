@@ -9,5 +9,3 @@ for title in Section:
 
 # if title.getAttribute("title") == "8,00ГБ":
 #   print("work")
-фывафывафывафыв
-афвыафывафывафы
